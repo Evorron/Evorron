@@ -10,10 +10,11 @@
 
 ## **About Me**
 [Evorron](https://linktr.ee/Evorron) here, a diploma graduate in InfoSec based in Singapore.
+* Mecha Fanatic
+* Cybersecurity Enthusiast
+* Dreamer Developer
 
-
-
-
+  
 ## :hammer_and_wrench: **Projects in the Neon Hangar** :gear:
 ![PilotLink-KirokazePixel-ezgif com-resize](https://github.com/user-attachments/assets/209ec0b1-2bd6-4495-bc20-f7c8a6195a4a)
 
