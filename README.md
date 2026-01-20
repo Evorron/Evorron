@@ -28,6 +28,14 @@
 
 🌱 **Currently Learning**
 
+## :scroll: **Skill Tree** :evergreen_tree:
+
+Languages and Tools
+
+Plastic Modeling
+* Scratch Building
+* Scale Modeling (Dioramas, Figures)
+
 <!--
 **Evorron/Evorron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
