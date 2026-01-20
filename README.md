@@ -1,3 +1,4 @@
+![Header](Header.gif)
 # Heya! Welcome to the Unknown 👋
 > #### My philosophy for different passions I have
 > "Find Joy in Everything Done" (Life)  
