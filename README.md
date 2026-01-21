@@ -5,8 +5,7 @@
 > "Always Venture Into the Unknown" (InfoSec/Dev)  
 > "Perfection and Quality" (Plamo Building)  
 
-
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31z6srr673iteeow433qw3vcmobu&cover_image=true&theme=novatorem&show_offline=false&background_color=8f13c9&interchange=true&profanity=false&bar_color=47019d&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## **About Me**
 [Evorron](https://linktr.ee/Evorron) here, a diploma graduate in InfoSec based in Singapore.
@@ -32,7 +31,10 @@
 
 ## :scroll: **Skill Tree** :evergreen_tree:
 
-Languages and Tools
+Languages and Tools  
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 
 Plastic Modeling
 * Scratch Building
