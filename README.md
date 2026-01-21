@@ -18,7 +18,7 @@
 ## :hammer_and_wrench: **Projects in the Neon Hangar** :gear:
 ![PilotLink-KirokazePixel-ezgif com-resize](https://github.com/user-attachments/assets/209ec0b1-2bd6-4495-bc20-f7c8a6195a4a)
 
-:hammer_and_wrench: **Currently Developing**  
+### :hammer_and_wrench: **Currently Developing**  
 * A Keylogger software with Python (Educational Purposes)
 * Website Scraper for Information Gathering
   - Reconnaissance tool for websites (InfoSec)
@@ -26,17 +26,16 @@
 * Automated Malware Analysis Sandbox
 * Website for resource sharing to model builder alike 
 
-:gear: **Currently Building**  
+### :gear: **Currently Building**  
 * SDW Heroes "Dominant Superior Darkness Dragon"
   - Repainted Kit with extension Modifications + Diorama
 
-🌱 **Currently Learning**
+### 🌱**Currently Learning**
 * HTML
 
 ## :scroll: **Skill Tree** :evergreen_tree:
 
 Languages and Tools  
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 
