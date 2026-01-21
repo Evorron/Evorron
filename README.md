@@ -31,6 +31,7 @@
   - Repainted Kit with extension Modifications + Diorama
 
 🌱 **Currently Learning**
+* HTML
 
 ## :scroll: **Skill Tree** :evergreen_tree:
 
